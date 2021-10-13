@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👩‍🎓 I’m currently a senior undergraduate majoring in Computer Science @umich
+- 👩‍🎓 I major in Electrical & Computer Engineering @sjtu
+- 📫 How to reach me: luxinyu@umich.edu
