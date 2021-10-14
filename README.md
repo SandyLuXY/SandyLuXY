@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👩‍🎓 I worked in Dr. Jie Liu's research lab
 - 🎵 I joined ByteDance as R&D Intern this summer, working on continuing and creating music with AI
 - 😄 I'm extremely interested in NLP and ML
-- 📫 How to reach me: luxinyu@umich.edu xinyu_lu@sjtu.edu.cn
+- 📫 How to reach me: luxinyu@umich.edu, xinyu_lu@sjtu.edu.cn
