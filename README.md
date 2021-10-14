@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 👩‍🎓 I’m currently a senior undergraduate majoring in Computer Science @umich
 - 👩‍🎓 I major in Electrical & Computer Engineering @sjtu
 - 👩‍🎓 I worked in Dr. Jie Liu's research lab
-- 🎵 I joined ByteDance as R&D Intern this summer, working on continuing and creating music
+- 🎵 I joined ByteDance as R&D Intern this summer, working on continuing and creating music with AI
 - 😄 I'm extremely interested in NLP and ML
 - 📫 How to reach me: luxinyu@umich.edu
