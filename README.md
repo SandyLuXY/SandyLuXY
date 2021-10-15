@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍🎓 I’m currently a senior undergraduate majoring in Computer Science @umich
-- 👩‍🎓 I major in Electrical & Computer Engineering @sjtu
+- 👩‍🎓 BS in Computer Science @umich, BS in ECE @sjtu
 - 👩‍🎓 I worked in Dr. Jie Liu's research lab
 - 🎵 I joined ByteDance as R&D Intern this summer, working on continuing and creating music with AI
 - 😄 I'm extremely interested in NLP and ML
+- 🏊‍♀️ I love 🏀 🏸️ 🏐️
 - 📫 How to reach me: luxinyu@umich.edu, xinyu_lu@sjtu.edu.cn
