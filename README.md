@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍🎓 BS in Computer Science @umich, BS in ECE @sjtu
+- 👩‍🎓 BS in CS @umich, BS in ECE @sjtu
 - 👩‍🎓 I worked in Dr. Jie Liu's research lab
 - 🎵 I joined ByteDance as R&D Intern this summer, working on continuing and creating music with AI
 - 😄 I'm extremely interested in NLP and ML
