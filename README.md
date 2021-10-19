@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 BS in CS @umich, BS in ECE @sjtu
 - 👩‍🎓 Working in Dr. Jie Liu's research lab
-- 🎵 ByteDance as R&D Intern this summer, working on continuing and creating music with AI
+- 🎵 ByteDance R&D Intern this summer, working on continuing and creating music with AI
 - 😄 Extremely interested in NLP and ML
 - 🏊‍♀️ Really love 🏀 🏸️ 🏐️
 - 📫 How to reach me: luxinyu@umich.edu, xinyu_lu@sjtu.edu.cn
